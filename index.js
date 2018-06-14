@@ -78,6 +78,7 @@ function removeFromCart(item) {
 removeFromCart('vanilla')
 removeFromCart("halloumi")
 removeFromCart("yams")
+removeFromCart("watermelon");
 
 function placeOrder(cardNumber) {
   // write your code here
