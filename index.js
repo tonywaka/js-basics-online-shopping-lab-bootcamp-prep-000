@@ -27,6 +27,10 @@ addToCart("figs")
 addToCart("grapes")
 addToCart("halloumi")
 addToCart("juice")
+addToCart("vanilla");
+addToCart("watermelon");
+addToCart("yams");
+
 
 
 function viewCart() {
